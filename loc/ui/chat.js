@@ -40,37 +40,37 @@ export default {
     {
       en: 'Cast',
       ru: 'Каст',
-      fr: 'Cast',
+      fr: 'Incantation',
       es: 'Convocar'
     },
     {
       en: 'Damage',
       ru: 'Урон',
-      fr: 'Damage',
+      fr: 'Dommage',
       es: 'Daño'
     },
     {
       en: 'Heal',
       ru: 'Исцеления',
-      fr: 'Heal',
+      fr: 'Soin',
       es: 'Curar'
     },
     {
       en: 'Death',
       ru: 'Смерть',
-      fr: 'Death',
+      fr: 'Mort',
       es: 'Muerto'
     },
     {
       en: 'Level Up',
       ru: 'Повышения Уровня',
-      fr: 'Level Up',
+      fr: 'Niveau supérieur',
       es: 'Subir nivel'
     },
     {
       en: 'Items',
       ru: 'Предметы',
-      fr: 'Items',
+      fr: 'Objets',
       es: 'Items'
     },
     {
@@ -88,7 +88,7 @@ export default {
     {
       en: 'Spent Gold',
       ru: 'Потраченное Золото',
-      fr: 'Gold Utilisé',
+      fr: 'Or Utilisé',
       es: 'Oro gastado'
     },
     {
